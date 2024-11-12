@@ -32,7 +32,3 @@ Color-Coded Visualization with spaCy’s displacy
 
 
 
-## Applications
-Data Redaction: Redacts sensitive information in documents by detecting and masking Legal, Health, and Banking information.
-
-Information Extraction: Supports applications where extracting specific entity types is critical, such as compliance, legal document review, and financial audits.
